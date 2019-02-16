@@ -1,0 +1,8 @@
+.idea/
+*.swp
+.DS_Store
+epel-
+*.log
+*.mocm
+deploy.sh
+unploy.sh
